@@ -7,7 +7,7 @@ module.exports = {
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
   organizationName: 'Nagatani',
-  projectName: 'web-larning-doc',
+  projectName: 'web-learning-doc',
   themeConfig: {
     navbar: {
       title: 'web-larning',
