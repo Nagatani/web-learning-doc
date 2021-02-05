@@ -1,8 +1,8 @@
 module.exports = {
   title: 'web-larning',
   tagline: 'The tagline of my site',
-  url: 'https://your-docusaurus-test-site.com',
-  baseUrl: '/',
+  url: 'https://nagatani.github.io/',
+  baseUrl: '/web-learning-doc/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
