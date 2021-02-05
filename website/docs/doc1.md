@@ -1,9 +1,16 @@
 ---
 id: doc1
-title: Style Guide
-sidebar_label: Style Guide
+title: このドキュメントについて
+sidebar_label: このドキュメントについて
 slug: /
 ---
+
+:::warning
+
+編集中です。
+
+:::
+
 
 You can write content using [GitHub-flavored Markdown syntax](https://github.github.com/gfm/).
 
