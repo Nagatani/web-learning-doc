@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkweb_larning||=[]).push([[634],{192(n,r,s){s.r(r);s(6540);var t=s(612),u=s(6025),a=s(4848);const c=function(){return(0,a.jsx)(t.rd,{to:(0,u.Ay)("docs/")})};s.d(r,["default",0,c])}}]);

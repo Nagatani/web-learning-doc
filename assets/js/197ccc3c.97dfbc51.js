@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkweb_larning||=[]).push([[927],{3268(e){e.exports=JSON.parse('{"metadata":{"permalink":"/web-learning-doc/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":0,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);
