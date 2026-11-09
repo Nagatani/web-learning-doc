@@ -12,12 +12,12 @@
     "clear": "docusaurus clear"
   },
   "dependencies": {
-    "@docusaurus/core": "2.0.0-alpha.70",
-    "@docusaurus/preset-classic": "2.0.0-alpha.70",
-    "@mdx-js/react": "^1.6.21",
-    "clsx": "^1.1.1",
-    "react": "^16.8.4",
-    "react-dom": "^16.8.4"
+    "@docusaurus/core": "^3.7.0",
+    "@docusaurus/preset-classic": "^3.7.0",
+    "@mdx-js/react": "^3.0.0",
+    "clsx": "^2.1.1",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
   },
   "browserslist": {
     "production": [
@@ -32,7 +32,40 @@
     ]
   },
   "devDependencies": {
-    "textlint": "^11.8.2",
-    "textlint-rule-preset-ja-technical-writing": "^4.0.1"
+    "textlint": "^14.4.2",
+    "textlint-rule-preset-ja-technical-writing": "^10.0.2"
+  },
+  "overrides": {
+    "@babel/helpers": "^7.26.10",
+    "@babel/runtime": "^7.26.10",
+    "@babel/traverse": "^7.26.10",
+    "brace-expansion": "^2.0.2",
+    "cookie": "^0.7.1",
+    "cross-spawn": "^7.0.6",
+    "dompurify": "^3.2.4",
+    "express": "^4.21.2",
+    "http-proxy-middleware": "^2.0.9",
+    "ip": "^2.0.1",
+    "js-yaml": "^4.1.1",
+    "lodash": "^4.18.0",
+    "micromatch": "^4.0.8",
+    "minimatch": "^11.0.0",
+    "nanoid": "^3.3.8",
+    "node-forge": "^1.4.1",
+    "on-headers": "^1.1.0",
+    "path-to-regexp": "^0.1.13",
+    "postcss": "^8.5.10",
+    "prismjs": "^1.30.0",
+    "qs": "^6.14.2",
+    "semver": "^7.7.1",
+    "send": "^0.19.0",
+    "serialize-javascript": "^7.1.3",
+    "serve-static": "^1.16.2",
+    "tar": "^7.5.21",
+    "uuid": "^11.1.1",
+    "webpack": "^5.104.1",
+    "webpack-dev-middleware": "^7.4.5",
+    "webpack-dev-server": "^5.2.4",
+    "ws": "^8.20.1"
   }
 }
